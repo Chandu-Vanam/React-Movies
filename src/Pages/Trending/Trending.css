@@ -3,3 +3,8 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
+.pageTitle{
+  font-size: 1.5rem;
+  position: relative;
+  left: 43%;
+}
