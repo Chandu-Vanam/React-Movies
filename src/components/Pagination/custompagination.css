@@ -1,0 +1,26 @@
+/* CustomPagination.css */
+
+.pagination-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .pagination {
+    display: flex;
+  }
+  
+  .page {
+    padding: 6px 12px;
+    margin: 0 4px;
+    border-radius: 4px;
+    background-color: #1976d2; /* Active background color */
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .page:hover {
+    background-color: #135ba1; /* Darker shade for hover effect */
+  }
+  
